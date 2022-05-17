@@ -10,6 +10,10 @@ Im not cryptoexpert, do pull-requests to help me, good luck!
 | ------- | ------------------ |
 | 0.1.x   | :white_check_mark: |
 
+| Todo                | Done   |
+| ------------------- | ------ |
+| Auto-detect volumes | :x:    |
+
 1. Install Python 3
 2. Run: chomd +x run.sh
 3. Run: ./run.sh
