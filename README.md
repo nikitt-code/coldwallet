@@ -1,5 +1,7 @@
 # coldwallet
 
+Im not cryptoexpert, do pull-requests to help me, good luck!
+
 [About project](https://github.com/nikitt-code/coldwallet/blob/master/About.mediawiki)
 
 1. Install Python 3
