@@ -1,0 +1,13 @@
+<pre>
+  ColdWallet
+  Required: python3
+  Author: nikitt-code
+  Comments-Summary: No comments yet.
+  Status: Final
+  Type: CLI application
+  Created: 2022-05-17
+</pre>
+
+== Development ==
+* Github - https://github.com/nikitt-code
+* Telegram - https://t.me/niki_tt
